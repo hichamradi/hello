@@ -1,2 +1,4 @@
 # hello
-new project
+
+name: Hicham Radi
+
